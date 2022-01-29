@@ -1,0 +1,16 @@
+body{
+    color: yellow;
+    background: linear-gradient(rgb(36, 231, 36) 0% , #00ffff 100%);
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+#camera{
+    border: 2px solid orange;
+    width: 350px;
+    height: 300px;
+}
+.name_of_objects, #result_name, #result_accuracy{
+    color: pink;
+}
